@@ -1,9 +1,5 @@
-import json
 import re
 from typing import List, Tuple
-
-import urllib3
-import subprocess
 
 
 class RequirementManagement:
